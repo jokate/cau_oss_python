@@ -5,4 +5,4 @@
 Homework#2, simple calculator 구현
 
 ## 2023-05-16
-Homework#4, figure 모 듈 구현
+Homework#4, figure 모듈 구현
